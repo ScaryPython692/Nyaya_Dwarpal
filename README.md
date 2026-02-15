@@ -14,9 +14,8 @@ Nyaya-Dwarpal is an AI-driven gateway for the Indian Judiciary. It automates the
  - Accessibility: Bhashini API (Multilingual Support)
 
 **📂 Project Documentation**
-Requirements.md - Detailed scope and user stories.
-
-Design.md - Technical architecture and AI pipeline logic.
+* [Requirements.md](./Requirements.md) - Detailed scope and user stories.
+* [Design.md](./Design.md) - Technical architecture and AI pipeline logic.
 
 **🌟 Key Features**
  - Automated Scrutiny Agent: Instant detection of filing defects (missing signatures, wrong fees).
