@@ -4,7 +4,7 @@
 **🚀 Overview**
 Nyaya-Dwarpal is an AI-driven gateway for the Indian Judiciary. It automates the technical scrutiny of legal filings, ensuring that documents are correct, tamper-proof, and accessible to all citizens regardless of their primary language.
 
-**🛠️ The Tech Stack (Velocity 53)**
+**🛠️ The Tech Stack**
  - AI Reasoning: AWS Bedrock (Claude 3) & AWS Textract
 
  - Integrity: AWS QLDB (Immutable Ledger)
